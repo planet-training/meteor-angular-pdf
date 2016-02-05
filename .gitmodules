@@ -1,0 +1,3 @@
+[submodule "angularjs-pdf"]
+	path = angularjs-pdf
+	url = https://github.com/sayanee/angularjs-pdf.git
